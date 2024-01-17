@@ -1,6 +1,6 @@
 {
     "name": "Ready Red Dragon",
-    "description": "",
+    "description": "Ah...",
     "dependencies": {
         "core": "*",
         "microphone": "*",
