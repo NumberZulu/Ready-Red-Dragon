@@ -15,4 +15,4 @@ def start():
     while input.button_is_pressed(Button.B):
         bird.change(LedSpriteProperty.Y, -1)
         break
-input.on_button_pressed(Button.A, start)s
+input.on_button_pressed(Button.A, start)
