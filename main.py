@@ -16,3 +16,5 @@ def start():
         bird.change(LedSpriteProperty.Y, -1)
         break
 input.on_button_pressed(Button.A, start)
+
+Github c'est bien
